@@ -20,5 +20,5 @@ Arduino es un proyecto de hardware libre. Lo cual significa que la fabricación 
 Tiene dos versiones una mas pequeña que otra dependiendo del proyecto que tenemos que hacer (UNO:la mas pequeña y MEGA).
 Tiene dos pines de alimentacion (9v,5v) , tiene pines digitales (0-13), tiene pines analogicos (A0-A5), tiene pines de entrada, tiene pines de tierra, tiene boton de reset, tiene pines de salida (3.3v,5v), tiene pines (~) WPM con el que podemos controlar la intensidad de luz.
 
-Para poder obtener el software debemos dirigirnos a la pagina web de arduino luego vamos a download y lo seleccionamos segun nuestro sistema operativo, cabe aclarar que se puede utilizar online solo con registrarnos en la pagina www.arduino.cc , al entrar lo primero que tenemos que hacer es verificar en mas herramientas el tipo de placa con el que vamos a trabajar ya sea UMO o MEGA
+Para poder obtener el software debemos dirigirnos a la pagina web de arduino luego vamos a download y lo seleccionamos segun nuestro sistema operativo, cabe aclarar que se puede utilizar online solo con registrarnos en la pagina www.arduino.cc , al entrar lo primero que tenemos que hacer es verificar en las herramientas el tipo de placa con el que vamos a trabajar ya sea UMO o MEGA
 
