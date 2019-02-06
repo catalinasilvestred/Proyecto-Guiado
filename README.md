@@ -15,4 +15,6 @@ La eleccion de este metodo de diseño es debido a que al ser varios integrantes,
 
 
 
-Arduino es un proyecto de software libre. Lo cual significa que la fabricación de estas placas se encuentra en la pagina de Internet, para que cualquier persona pueda conocer el proceso a seguir para crear su propia placa
+Arduino es un proyecto de software libre. Lo cual significa que la fabricación de estas placas se encuentra en la pagina de Internet, para que cualquier persona pueda conocer el proceso a seguir para crear su propia placa. Originalmente son hechas en china, pero debido principalmente a su costo, en china realizan copias ilegles de estas, obviamente siendo mas baratas que la originales 
+
+
