@@ -1,4 +1,4 @@
-#H1
+
 Proyecto Guiado
 INTEGRANTES:
 Catalina Silvestre: Lider 
