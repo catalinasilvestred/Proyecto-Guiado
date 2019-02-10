@@ -1,5 +1,5 @@
 
-Proyecto Guiado
+## Proyecto Guiado
 INTEGRANTES:
 Catalina Silvestre: Lider 
 David Alejandro Melendez: Programador
