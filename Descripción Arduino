@@ -8,3 +8,8 @@ Las placas de Arduino pueden ser alimentadas por USB, baterias, o fuentes de pod
 cuales cumplen una funcion especifica, como por ejemplo los pines de entrada, de salida, y pines de alimentacion, tambien esta constituido
 por un microcontrolador, y obviamente una fuente externa.
 
+Para obtener el software debemos entrar a www.arduino.cc, vamos a download y buscamos el instalador dependiendo de nuestro sistema operativo.
+Cabe aclarar que podemos usarlo sin descargarlo en nuestro computador pues podemos hacerlo online registrándonos.
+
+Al entrar al programa en herramientas debemos especificar con que placa estamos trabajando (UNO o MEGA),
+después seleccionar el puerto al que está conectado la placa
