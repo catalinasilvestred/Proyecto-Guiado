@@ -13,3 +13,11 @@ Cabe aclarar que podemos usarlo sin descargarlo en nuestro computador pues podem
 
 Al entrar al programa en herramientas debemos especificar con que placa estamos trabajando (UNO o MEGA),
 después seleccionar el puerto al que está conectado la placa
+
+La historia de Arudino empieza con un proyecto que buscaba economizar la creacion de proyectos escolares dentro del instituto de su desarro-
+llador, Massino Benzi, acompañado de Hernando Barragan, David Mellis, David Cuartielles y Tom Igoe; aunque tambien necesitaban ayudar a evitar
+la quiebra de la misma con las ganancias que se conseguirian vendiendo las placas en el campus a un precio accesible a todos los estudiantes.
+Los primeros prototipos presentaban un sistema bastante simple, que fue evolucionando debido a la colaboracion de los demas desarrolladores,
+agregando coonexion USB a la placa, lenguaje de programacion para manipularla, una interfaz mejor diseñada, etc. Cuando consideraron que estaba
+lista, contactaron para empezar a promocionarla y distribuirla. hasta que logro la fama mundial convirtiendose en la herramienta numero uno
+en desarrollo de sistemas automatas.
