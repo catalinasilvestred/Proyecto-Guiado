@@ -7,6 +7,7 @@ nos sirve para la realizacion de diferentes tipos de proyectos electronicos.
 Las placas de Arduino pueden ser alimentadas por USB, baterias, o fuentes de poder. Por otro lado, esta constituido por unos pines los
 cuales cumplen una funcion especifica, como por ejemplo los pines de entrada, de salida, y pines de alimentacion, tambien esta constituido
 por un microcontrolador, y obviamente una fuente externa.
+Tiene dos versiones una mas pequeña que otra dependiendo del proyecto que tenemos que hacer (UNO:la mas pequeña y MEGA).
 
 Para obtener el software debemos entrar a www.arduino.cc, vamos a download y buscamos el instalador dependiendo de nuestro sistema operativo.
 Cabe aclarar que podemos usarlo sin descargarlo en nuestro computador pues podemos hacerlo online registrándonos.
