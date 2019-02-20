@@ -1,3 +1,4 @@
+### Descripcion Arduino:
 
 Arduino es un proyecto de hardware libre. Esto significa que la fabricacion  de estas placas se encuentra en la página de internet  
 para que cualquier persona pueda conoceel proceso a seguir para fabricar su propia placa . Originalmente  son hechas en Italia pero debido
@@ -11,7 +12,6 @@ Tiene dos versiones una mas pequeña que otra dependiendo del proyecto que tenem
 Tiene dos pines de alimentacion (9v,5v) , tiene pines digitales (0-13), tiene pines analogicos (A0-A5), tiene pines de entrada, 
 tiene pines de tierra, tiene boton de reset, tiene pines de salida (3.3v,5v), tiene pines (~) WPM con el que podemos controlar
 la intensidad de luz.
-
 
 Para obtener el software debemos entrar a www.arduino.cc, vamos a download y buscamos el instalador dependiendo de nuestro sistema operativo.
 Cabe aclarar que podemos usarlo sin descargarlo en nuestro computador pues podemos hacerlo online registrándonos.
